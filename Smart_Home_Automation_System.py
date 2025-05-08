@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load images
-device_management_img = Image.open(r"C:\Users\abc\Desktop\smart-home-automation-system\device_managment.jpg")
-energy_tracker_img = Image.open(r"C:\Users\abc\Desktop\smart-home-automation-system\energy_tracker.jpg")
-automation_img = Image.open(r"C:\Users\abc\Desktop\smart-home-automation-system\automation.jpg")
+device_management_img = Image.open("device_managment.jpg")
+energy_tracker_img = Image.open("energy_tracker.jpg")
+automation_img = Image.open("automation.jpg")
 
 # ----------------------------- Device Management ----------------------------- #
 def device_management():
