@@ -1,2 +1,4 @@
 streamlit
-Pillow as PIL
+Pillow
+Numpy
+Matplotlib
